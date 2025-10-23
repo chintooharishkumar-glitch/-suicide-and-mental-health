@@ -1,0 +1,20 @@
+visualizing-hope/
+│
+├── index.html             # main webpage
+├── style.css              # optional styling
+├── script.js              # for interactive visualizations
+│
+├── /data/
+│   ├── who_suicide_rates.csv
+│   ├── owid_mental_health.csv
+│   └── worldbank_gdp.csv
+│
+├── /visuals/
+│   ├── global_map.png
+│   ├── trends.png
+│   └── scatter_gdp_suicide.png
+│
+└── /resources/
+    ├── crisis_hotlines.json
+    ├── links.txt
+    └── disclaimer.md
