@@ -1,0 +1,7 @@
+| Topic                                      | Source                                                                                                      | Format   | Notes                                            |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------ |
+| **Suicide rates (global)**                 | [WHO Global Health Observatory (GHO)](https://www.who.int/data/gho/data/themes/mental-health/suicide-rates) | CSV, XLS | Official WHO data; by country, age, sex          |
+| **Mental health disorders prevalence**     | [Our World in Data – Mental Health](https://ourworldindata.org/mental-health)                               | CSV      | Covers anxiety, depression, and treatment access |
+| **Socioeconomic & demographic indicators** | [World Bank Open Data](https://data.worldbank.org)                                                          | CSV      | GDP, education, healthcare expenditure           |
+| **US-specific data**                       | [CDC WISQARS: Suicide Data](https://www.cdc.gov/suicide/suicide-data-statistics.html)                       | CSV      | Detailed U.S. mortality data                     |
+| **Helplines / crisis resources**           | [findahelpline.com API](https://findahelpline.com/api)                                                      | JSON     | Global directory of helplines                    |
