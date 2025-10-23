@@ -1,0 +1,7 @@
+| Visualization                        | Description                                                         | Data Used        |
+| ------------------------------------ | ------------------------------------------------------------------- | ---------------- |
+| **Global Suicide Map**               | Interactive choropleth showing suicide rates by country             | WHO GHO data     |
+| **Trend Over Time**                  | Line chart showing global or regional suicide trends (2000–present) | WHO GHO          |
+| **Gender & Age Breakdown**           | Bar or stacked chart                                                | WHO data         |
+| **Mental Health Resources Access**   | Bubble map or ratio chart comparing resources to population         | WHO + OWID       |
+| **GDP vs Suicide Rates Scatterplot** | Shows potential correlations                                        | WHO + World Bank |
